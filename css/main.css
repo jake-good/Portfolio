@@ -75,7 +75,7 @@ body {
   color: rgb(80, 80, 80);
 }
 
-i.fab {
+.icon-links i.fab {
   padding: 7px;
   color: black;
 }
@@ -112,4 +112,14 @@ i.fab {
 img {
   max-width: 250px;
   padding: 0 auto;
+}
+
+.project-link {
+  margin: 0;
+}
+
+.project-link a {
+  font-size: 0.6em;
+  text-decoration: none;
+  color: #f07237;
 }
