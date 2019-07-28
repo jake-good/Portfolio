@@ -114,6 +114,11 @@ img {
   padding: 0 auto;
 }
 
+.project-tech {
+  font-size: 0.6em;
+  font-weight: bold;
+}
+
 .project-link {
   margin: 0;
 }
